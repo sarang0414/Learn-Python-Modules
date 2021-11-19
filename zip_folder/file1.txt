@@ -1,0 +1,2 @@
+Directories is : -- ['branches', 'info', 'objects', 'logs', 'refs', 'hooks']
+Files is : -- ['config', 'description', 'COMMIT_EDITMSG', 'index', 'HEAD']
